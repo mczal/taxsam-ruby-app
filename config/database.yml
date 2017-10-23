@@ -10,7 +10,7 @@ default: &default
   timeout: 5000
   encoding: unicode
   username: mczal
-  password:
+  password: cV0rn$91
 
 development:
   <<: *default
